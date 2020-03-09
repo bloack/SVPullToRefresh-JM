@@ -1,0 +1,22 @@
+{
+  "name": "SVPullToRefresh-JM",
+  "version": "0.1.0",
+  "summary": "A short description of SVPullToRefresh-JM.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bloack/SVPullToRefresh-JM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bloack": "junchen.liu@jiamiantech.com"
+  },
+  "source": {
+    "git": "https://github.com/bloack/SVPullToRefresh-JM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVPullToRefresh-JM/Classes/**/*"
+}
